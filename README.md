@@ -1,4 +1,4 @@
-# Nuxt, Decap CMS, Tailwind and Content
+# Nuxt, Supabase and Tailwind
 
 - [Nuxt](https://nuxt.com)
 - [Decap CMS](https://decapcms.org/)
@@ -15,12 +15,11 @@ bun install
 
 ## Development
 
-Connect Decap CMS to the local Git repository.
-
-Start the proxy server:
+Add `SUPABASE_URL` and `SUPABASE_KEY` to a new `.env` file:
 
 ```bash
-npx decap-server
+SUPABASE_URL="https://example.supabase.co"
+SUPABASE_KEY="<your_key>"
 ```
 
 Start the development server:
