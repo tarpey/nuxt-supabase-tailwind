@@ -1,9 +1,8 @@
 # Nuxt, Supabase and Tailwind
 
 - [Nuxt](https://nuxt.com)
-- [Decap CMS](https://decapcms.org/)
-- [Tailwind](https://tailwindcss.nuxtjs.org/)
-- [Content](https://content.nuxt.com/)
+- [Supabase](https://supabase.nuxtjs.org)
+- [Tailwind](https://tailwindcss.nuxtjs.org)
 
 ## Setup
 
